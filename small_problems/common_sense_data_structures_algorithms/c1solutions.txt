@@ -1,0 +1,20 @@
+p1:
+- Reading: 1 step
+- Searching for value not in array: 100 steps
+- Insertion at beginning: 101 dalmations
+- Insertion at end: 1 step
+- Deletion at beginning: 100 steps
+- Deletion at end: 1 step
+
+p2:
+-1
+-100
+-201
+-101
+-100
+-1
+
+p3:
+-N
+
+###ALL CORREC :) ###
